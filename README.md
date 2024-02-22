@@ -2,6 +2,11 @@
 
 This repo contains notes on VIM and NEOVIM
 
+This repo is created from the learnings shared from the Primeagen tutorial on VIM
+
+Playlist link : https://www.youtube.com/watch?v=X6AR2RMB5tE&list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R&ab_channel=ThePrimeagen
+
+
 # Modes in VIM
 
 There are 4 modes in VIM:
@@ -61,7 +66,6 @@ There are a lot of tricks to traverse the file in an efficient manner
 	To paste over something : You need to first select, copy and then select again and then paste
 
 	Note : Yanking and deleting has the same buffer and when you delete something and then paste it, it will paste the last copied line
-
 
 
 
